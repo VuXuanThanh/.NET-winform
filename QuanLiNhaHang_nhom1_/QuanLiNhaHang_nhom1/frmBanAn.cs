@@ -16,5 +16,6 @@ namespace QuanLiNhaHang_nhom1
         {
             InitializeComponent();
         }
+        public void test_Pull_requests(){}
     }
 }
