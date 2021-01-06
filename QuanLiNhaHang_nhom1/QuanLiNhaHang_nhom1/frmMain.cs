@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,6 +13,7 @@ namespace QuanLiNhaHang_nhom1
 {
     public partial class frmMain : Form
     {
+        public String appPath = Path.GetDirectoryName(Application.ExecutablePath) + "\\images";
         public frmMain()
         {
             InitializeComponent();
@@ -43,6 +45,31 @@ namespace QuanLiNhaHang_nhom1
         {
             frmKhachHang frmKH = new frmKhachHang();
             frmKH.ShowDialog();
+        }
+
+        private void toolStripButton3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tầng1ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            button1.Image = Image.FromFile(appPath + @"/shit_.jpg");
+        }
+
+        private void tầng2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            button1.Image = Image.FromFile(appPath + @"/ny_toi.jpg");
+        }
+
+        private void tầng3ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            button1.Image = Image.FromFile(appPath + @"/bandoi.jpg");
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

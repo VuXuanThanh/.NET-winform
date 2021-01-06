@@ -1,0 +1,37 @@
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\bin\Debug\QuanLiNhaHang_nhom1.exe.config
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\bin\Debug\QuanLiNhaHang_nhom1.exe
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\bin\Debug\QuanLiNhaHang_nhom1.pdb
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmMain.resources
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.Properties.Resources.resources
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.csproj.GenerateResource.cache
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.csproj.CoreCompileInputs.cache
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.exe
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.pdb
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmDMNhaCC.resources
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmDMNguyenLieu.resources
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmHoaDon.resources
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmKhachHang.resources
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmBanAn.resources
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmMonAn.resources
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmNhanVien.resources
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmTimKiemNCC.resources
+F:\BTL lập trình windows nhóm 1\QuanLiNhaHang_nhom1\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmTimKiemNV.resources
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\bin\Debug\QuanLiNhaHang_nhom1.exe.config
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\bin\Debug\QuanLiNhaHang_nhom1.exe
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\bin\Debug\QuanLiNhaHang_nhom1.pdb
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.csprojAssemblyReference.cache
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmDMNhaCC.resources
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmHoaDon.resources
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmKhachHang.resources
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmMain.resources
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmDMNguyenLieu.resources
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmBanAn.resources
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmMonAn.resources
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmNhanVien.resources
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmTimKiemNCC.resources
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.frmTimKiemNV.resources
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.Properties.Resources.resources
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.csproj.GenerateResource.cache
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.csproj.CoreCompileInputs.cache
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.exe
+C:\Users\havan\Documents\DATA\winform\BTL_ưindows\.NET-winform\QuanLiNhaHang_nhom1_\QuanLiNhaHang_nhom1\obj\Debug\QuanLiNhaHang_nhom1.pdb

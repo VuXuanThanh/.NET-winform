@@ -14,7 +14,7 @@ namespace QuanLiNhaHang_nhom1
         
         public static SqlConnection connect()
         {
-            string conString = @"Data Source=DESKTOP-BNNISG0;Initial Catalog=QuanLiNhaHang_nhom1;Integrated Security=True";
+            string conString = @"Data Source=DESKTOP-BBUJIFK;Initial Catalog=QLNH;Integrated Security=True";
             SqlConnection con = new SqlConnection(conString);
             return con;
         }
